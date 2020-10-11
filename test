@@ -1,0 +1,14 @@
+<body>
+  <main>
+    
+ <form action="success.html" method="get">
+   <label>Name</label>
+   <input name="name">
+   <label>Email</label>
+   <input name="email"> 
+   <button>Sign up</button>
+</form>
+    </main>
+    </body>
+  
+
