@@ -1,6 +1,5 @@
 <body>
   <main>
-    
  <form action="success.html" method="get">
    <label>Name</label>
    <input name="name">
